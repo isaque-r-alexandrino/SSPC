@@ -6,8 +6,6 @@
 
 Um simulador gravitacional N-body completo e interativo que permite criar e visualizar sistemas planetários personalizados com física realista.
 
-![Simulação Demo](https://via.placeholder.com/800x400/2c3e50/ffffff?text=Simulador+Sistema+Solar)
-
 ##  Características Principais
 
 ###  Física Avançada
